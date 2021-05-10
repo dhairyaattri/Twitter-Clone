@@ -1,5 +1,7 @@
 # twitter-clone
 
+Clone of the Twitter home page using tailwind.css and Vue.js.
+
 ## Project setup
 ```
 npm install
